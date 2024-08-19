@@ -1,0 +1,10 @@
+.index{
+    background-color: #ddd;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    height: 74vh;
+    padding: 20px;
+}
+img{
+    height: 10px;
+}
